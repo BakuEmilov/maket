@@ -122,6 +122,22 @@ header{
   font-weight: 400;
 }
 
+.button-2 {
+  float: left;
+  margin-right: 20px;
+}
+
+.button-2 button {
+  background-color: #02897a;
+  border: 1px solid #02897a;
+  padding: 10px 40px;
+  display: flex;
+  align-items: center;
+  border-radius: 4px;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 700;
+}
 
 
 
