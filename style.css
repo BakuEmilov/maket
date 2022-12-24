@@ -53,3 +53,10 @@ body {
 .col-12 {
   flex: 100% 0 0;
 }
+
+.topbar {
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  max-width: 1100px;
+}
