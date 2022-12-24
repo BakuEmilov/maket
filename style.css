@@ -145,6 +145,11 @@ header{
   font-weight: 600;
 }
 
+.button-link {
+  display: flex;
+  align-items: center;
+}
+
 
 
 
