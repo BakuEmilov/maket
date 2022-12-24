@@ -106,6 +106,24 @@ header{
   margin-bottom: 100px;
 }
 
+.row .col-6 {
+  margin-top: 100px;
+  max-width: 450px;
+}
+
+.col-6 h1 {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.col-6 p {
+  margin: 0 0 70px;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+
+
 
 
 
