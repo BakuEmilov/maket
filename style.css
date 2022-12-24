@@ -106,28 +106,28 @@ header{
   margin-bottom: 100px;
 }
 
-.row .col-6 {
+header .col-6 {
   margin-top: 100px;
   max-width: 450px;
 }
 
-.col-6 h1 {
+header .col-6 h1 {
   font-size: 40px;
   font-weight: 700;
 }
 
-.col-6 p {
+header .col-6 p {
   margin: 0 0 70px;
   font-size: 18px;
   font-weight: 400;
 }
 
-.button-2 {
+header .button-2 {
   float: left;
   margin-right: 20px;
 }
 
-.button-2 button {
+header .button-2 button {
   background-color: #02897a;
   border: 1px solid #02897a;
   padding: 10px 40px;
@@ -139,13 +139,13 @@ header{
   font-weight: 700;
 }
 
-.link-1 a {
+header .link-1 a {
   color: #02897a;
   font-size: 16px;
   font-weight: 600;
 }
 
-.button-link {
+header .button-link {
   display: flex;
   align-items: center;
 }
