@@ -67,3 +67,15 @@ body {
   font-size: 30px;
   font-weight: 700;
 }
+
+.topbar .nav {
+  display: flex;
+  list-style: none;
+}
+
+.topbar .nav-link {
+  text-decoration: none;
+  color: #22343d;
+  padding: 20px;
+  font-size: 16px;
+}
