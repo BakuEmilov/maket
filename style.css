@@ -193,3 +193,11 @@ section {
   padding: 15px 32px;
 }
 
+
+section .button-3 {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+
