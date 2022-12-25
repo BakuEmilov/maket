@@ -324,4 +324,11 @@ section .button-3 {
 }
 
 
+.avator-2{
+  align-items: center;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+
 
