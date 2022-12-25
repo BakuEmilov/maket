@@ -199,6 +199,15 @@ section .button-3 {
   justify-content: center;
 }
 
+.management {
+  max-width: 1080px;
+  margin: 0 auto;
+  margin-bottom: 150px;
+}
 
+.management .row {
+  display: flex;
+  justify-content: space-between;
+}
 
 
