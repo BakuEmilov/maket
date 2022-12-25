@@ -330,5 +330,10 @@ section .button-3 {
   flex-direction: row-reverse;
 }
 
+.avator-3{
+  align-items: center;
+  display: flex;
+  flex-direction: row-reverse;
+}
 
 
