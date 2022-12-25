@@ -230,3 +230,12 @@ section .button-3 {
   justify-content: space-between;
 }
 
+.customer-support .col-text {
+  max-width: 420px;
+}
+
+.customer-support .col-text p {
+  font-size: 16px;
+  font-weight: 400;
+}
+
