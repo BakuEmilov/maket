@@ -399,6 +399,7 @@ main .button-4 {
 }
 
 .contents-strategies .col-4 h3 {
+  margin-top: -17px;
   max-width: 270px;
   margin-left: 20px;
   font-size: 21px;
