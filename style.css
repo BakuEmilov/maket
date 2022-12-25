@@ -210,4 +210,8 @@ section .button-3 {
   justify-content: space-between;
 }
 
+.management .col-text {
+  max-width: 486px;
+}
+
 
