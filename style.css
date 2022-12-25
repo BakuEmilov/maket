@@ -199,4 +199,10 @@ section .button-3 {
   justify-content: center;
 }
 
+main{
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+
 
