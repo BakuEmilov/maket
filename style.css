@@ -291,3 +291,9 @@ section .button-3 {
   justify-content: space-evenly;
 }
 
+
+.second-col .avator-3 img{
+  float: right;
+  margin-left: 20px;
+}
+
