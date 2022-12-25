@@ -270,13 +270,13 @@ section .button-3 {
   max-width: 460px;
 }
 
-.quick{
-  color: #2F281E;
+.quick {
+  color: #2f281e;
   max-width: 970px;
   margin: 0 auto;
 }
 
-.quick p{
+.quick p {
   font-size: 16px;
   font-weight: 500;
   text-align: center;
@@ -285,14 +285,14 @@ section .button-3 {
   display: flex;
 }
 
-.quick h1{
+.quick h1 {
   font-size: 32px;
   font-weight: 700;
   text-align: center;
   margin: 50px;
 }
 
-.quick .first-col{
+.quick .first-col {
   margin: 0 auto;
   max-width: 920px;
   margin-top: 50px;
@@ -300,17 +300,17 @@ section .button-3 {
   justify-content: space-between;
 }
 
-.first-col .avator-1 img{
+.first-col .avator-1 img {
   float: left;
   margin-right: 20px;
 }
 
-.first-col .avator-2 img{
+.first-col .avator-2 img {
   float: right;
   margin-left: 20px;
 }
 
-.quick .second-col{
+.quick .second-col {
   margin: 0 auto;
   max-width: 850px;
   margin-top: 30px;
@@ -318,34 +318,34 @@ section .button-3 {
   justify-content: space-between;
 }
 
-.second-col .avator-3 img{
+.second-col .avator-3 img {
   float: right;
   margin-left: 20px;
 }
 
-.second-col .avator-4 img{
+.second-col .avator-4 img {
   float: left;
   margin-right: 20px;
 }
 
-.avator-1{
+.avator-1 {
   align-items: center;
   display: flex;
 }
 
-.avator-2{
-  align-items: center;
-  display: flex;
-  flex-direction: row-reverse;
-}
-
-.avator-3{
+.avator-2 {
   align-items: center;
   display: flex;
   flex-direction: row-reverse;
 }
 
-.avator-4{
+.avator-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.avator-4 {
   align-items: center;
   display: flex;
   flex-direction: row;
@@ -361,14 +361,9 @@ section .button-3 {
   padding: 15px 32px;
 }
 
-
 main .button-4 {
   margin-top: 50px;
   margin-bottom: 50px;
   display: flex;
   justify-content: center;
 }
-
-
-
-
