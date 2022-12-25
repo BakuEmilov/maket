@@ -225,3 +225,8 @@ section .button-3 {
   margin-bottom: 150px;
 }
 
+.customer-support .row {
+  display: flex;
+  justify-content: space-between;
+}
+
