@@ -152,5 +152,8 @@ header .button-link {
   align-items: center;
 }
 
-
+section .h1 {
+  text-align: center;
+  margin-bottom: 66px;
+}
 
