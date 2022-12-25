@@ -266,3 +266,8 @@ section .button-3 {
   justify-content: space-between;
 }
 
+
+.collaborative .col-text {
+  max-width: 460px;
+}
+
