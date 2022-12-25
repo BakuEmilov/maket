@@ -293,6 +293,8 @@ section .button-3 {
 }
 
 .quick .first-col{
+  margin: 0 auto;
+  max-width: 920px;
   margin-top: 50px;
   display: flex;
   justify-content: space-between;
@@ -309,6 +311,8 @@ section .button-3 {
 }
 
 .quick .second-col{
+  margin: 0 auto;
+  max-width: 850px;
   margin-top: 30px;
   display: flex;
   justify-content: space-between;
@@ -345,6 +349,24 @@ section .button-3 {
   align-items: center;
   display: flex;
   flex-direction: row;
+}
+
+.button-4 button {
+  color: #ffffff;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: 700;
+  background-color: #02897a;
+  border: 1px solid #02897a;
+  padding: 15px 32px;
+}
+
+
+main .button-4 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: center;
 }
 
 
