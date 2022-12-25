@@ -243,3 +243,15 @@ section .button-3 {
   margin: 40px 0;
 }
 
+.support div {
+  display: flex;
+  align-items: center;
+  margin: 20px 0px;
+}
+
+.support div img {
+  width: 35px;
+  height: 35px;
+  margin-right: 20px;
+}
+
