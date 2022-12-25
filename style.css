@@ -368,4 +368,11 @@ main .button-4 {
   justify-content: center;
 }
 
+.contents-strategies{
+  margin: 0 auto;
+  max-width: 1080px;
+}
 
+.contents-strategies img{
+  width: 320px;
+}
