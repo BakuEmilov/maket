@@ -173,3 +173,10 @@ section .h1 {
   font-weight: 400;
 }
 
+
+section {
+  margin: 0 auto;
+  max-width: 1080px;
+  margin-bottom: 200px;
+}
+
