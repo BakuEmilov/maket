@@ -297,3 +297,8 @@ section .button-3 {
   margin-left: 20px;
 }
 
+.second-col .avator-4 img{
+  float: left;
+  margin-right: 20px;
+}
+
