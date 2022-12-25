@@ -157,3 +157,8 @@ section .h1 {
   margin-bottom: 66px;
 }
 
+.product {
+  display: flex;
+  justify-content: space-between;
+}
+
