@@ -104,7 +104,7 @@ body {
 header {
   max-width: 1080px;
   margin: 0 auto;
-  margin-bottom: 100px;
+  margin-bottom: 150px;
 }
 
 header .col-6 {
@@ -192,7 +192,6 @@ section {
   border: 1px solid #02897a;
   padding: 15px 32px;
 }
-
 
 section .button-3 {
   margin-top: 50px;
