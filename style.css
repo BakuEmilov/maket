@@ -10,7 +10,8 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
-.row { /* строка */
+.row {
+  /* строка */
   display: flex;
   flex-wrap: wrap;
 }
@@ -100,20 +101,21 @@ body {
   color: #02897a;
 }
 
-header{
+header {
   max-width: 1080px;
   margin: 0 auto;
   margin-bottom: 100px;
 }
 
 header .col-6 {
-  margin-top: 100px;
+  margin-top: 50px;
   max-width: 450px;
 }
 
 header .col-6 h1 {
   font-size: 40px;
   font-weight: 700;
+  margin-top: 130px;
 }
 
 header .col-6 p {
@@ -149,9 +151,5 @@ header .button-link {
   display: flex;
   align-items: center;
 }
-
-
-
-
 
 
