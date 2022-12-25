@@ -285,3 +285,9 @@ section .button-3 {
   margin-right: 20px;
 }
 
+
+.quick .second-col{
+  display: flex;
+  justify-content: space-evenly;
+}
+
