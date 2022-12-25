@@ -214,4 +214,14 @@ section .button-3 {
   max-width: 486px;
 }
 
+.management .col-text p {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.customer-support {
+  max-width: 1080px;
+  margin: 0 auto;
+  margin-bottom: 150px;
+}
 
