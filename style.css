@@ -368,48 +368,45 @@ main .button-4 {
   justify-content: center;
 }
 
-.contents-strategies{
-  color: #22343D;
+.contents-strategies {
+  color: #22343d;
   margin: 0 auto;
   max-width: 1080px;
 }
 
-.contents-strategies h1{
+.contents-strategies h1 {
   margin-left: 10px;
   font-size: 34px;
   font-weight: 700;
 }
 
-.contents-strategies p{
+.contents-strategies p {
   margin-left: 10px;
   margin-bottom: 35px;
   font-size: 16px;
   font-weight: 500;
 }
 
-.contents-strategies .col-4 img{
+.contents-strategies .col-4 img {
   width: 320px;
 }
 
-.contents-strategies .col-4 p{
+.contents-strategies .col-4 p {
+  max-width: 270px;
+  margin-left: 20px;
   font-size: 16px;
   font-weight: 400;
 }
 
-.contents-strategies .col-4 h3{
-  font-size: 21px;
-  font-weight: 700;
-}
-
-.contents-strategies .col-4 .h3{
-  font-size: 21px;
-  font-weight: 700;
-  color:#02897A;
-}
-
-.contents-strategies .col-4 p, h3{
+.contents-strategies .col-4 h3 {
   max-width: 270px;
   margin-left: 20px;
+  font-size: 21px;
+  font-weight: 700;
 }
 
-
+.contents-strategies .col-4 .h3 {
+  font-size: 21px;
+  font-weight: 700;
+  color: #02897a;
+}
