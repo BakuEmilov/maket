@@ -318,5 +318,10 @@ section .button-3 {
   margin-right: 20px;
 }
 
+.avator-1{
+  align-items: center;
+  display: flex;
+}
+
 
 
