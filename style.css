@@ -363,16 +363,53 @@ section .button-3 {
 
 main .button-4 {
   margin-top: 50px;
-  margin-bottom: 50px;
+  margin-bottom: 150px;
   display: flex;
   justify-content: center;
 }
 
 .contents-strategies{
+  color: #22343D;
   margin: 0 auto;
   max-width: 1080px;
 }
 
-.contents-strategies img{
+.contents-strategies h1{
+  margin-left: 10px;
+  font-size: 34px;
+  font-weight: 700;
+}
+
+.contents-strategies p{
+  margin-left: 10px;
+  margin-bottom: 35px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.contents-strategies .col-4 img{
   width: 320px;
 }
+
+.contents-strategies .col-4 p{
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.contents-strategies .col-4 h3{
+  font-size: 21px;
+  font-weight: 700;
+}
+
+.contents-strategies .col-4 .h3{
+  font-size: 21px;
+  font-weight: 700;
+  color:#02897A;
+}
+
+.contents-strategies .col-4 p, h3{
+  max-width: 270px;
+  margin-left: 20px;
+}
+
+
