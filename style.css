@@ -426,6 +426,7 @@ main .button-4 {
 }
 
 .carosolt{
+  margin-bottom: 200px;
   margin-top: 50px;
   display: flex;
   justify-content: center;
