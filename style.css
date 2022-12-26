@@ -445,6 +445,18 @@ main .button-4 {
   padding: 15px 60px;
 }
 
+
+.free button{
+  padding: 11px 19px;
+  border: 1px solid white;
+  color: white;
+  background-color: #02897a;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 16px;
+  margin: 20px;
+}
+
 .table-card .standart {
   text-align: center;
   background-color: #02897a;
