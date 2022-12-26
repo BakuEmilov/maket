@@ -371,7 +371,7 @@ main .button-4 {
 .contents-strategies {
   color: #22343d;
   margin: 0 auto;
-  max-width: 1080px;
+  max-width: 1000px;
 }
 
 .contents-strategies h1 {
@@ -387,10 +387,6 @@ main .button-4 {
   font-weight: 500;
 }
 
-.contents-strategies .col-4 img {
-  width: 320px;
-}
-
 .contents-strategies .col-4 p {
   max-width: 270px;
   margin-left: 20px;
@@ -398,7 +394,7 @@ main .button-4 {
   font-weight: 400;
 }
 
-.contents-strategies .col-4 h3 {
+.contents-strategies .card-content h3 {
   margin-top: -17px;
   max-width: 270px;
   margin-left: 20px;
@@ -406,8 +402,31 @@ main .button-4 {
   font-weight: 700;
 }
 
-.contents-strategies .col-4 .h3 {
+.contents-strategies .card-content .h3 {
+  margin-top: -17px;
+  max-width: 270px;
+  margin-left: 20px;
   font-size: 21px;
   font-weight: 700;
   color: #02897a;
+} 
+
+.card {
+  border: 1px solid gray;
+  border-radius: 8px;
+}
+
+.card .card-images { 
+  width: 311px;
+}
+
+.card .card-content {
+  padding: 10px 15px;
+  max-width: 320px;
+}
+
+.carosolt{
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
 }
