@@ -425,4 +425,18 @@ main .button-4 {
   justify-content: center;
 }
 
+.table-card h1, .p{
+  display: flex;
+  justify-content: center;
+}
+
+.table-card .col-4{
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+
+
+
 
