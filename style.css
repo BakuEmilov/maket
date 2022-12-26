@@ -502,3 +502,13 @@ main .button-4 {
  margin: 0 auto;  
  margin-bottom: 30px;
 }
+
+.row{
+  display: flex;
+  justify-content: space-between;
+}
+
+.reviews .col-4{
+  margin-top: 50px;
+  max-width: 310px;
+}
