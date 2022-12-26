@@ -55,7 +55,7 @@ body {
   flex: 100% 0 0;
 }
 
-.container{
+.container {
   margin: 0 auto;
   max-width: 1080px;
 }
@@ -425,18 +425,19 @@ main .button-4 {
   justify-content: center;
 }
 
-.table-card h1, .p{
+.table-card h1,
+.p {
   display: flex;
   justify-content: center;
 }
 
-.table-card .col-4{
+.table-card .col-4 {
   margin-top: 40px;
   display: flex;
   justify-content: center;
 }
 
-.table-card .free{
+.table-card .free {
   text-align: center;
   border: 1px solid white;
   box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.25);
@@ -444,16 +445,14 @@ main .button-4 {
   padding: 15px 60px;
 }
 
-.table-card .standart{
+.table-card .standart {
   text-align: center;
-  background-color: #02897A;
-  border: 1px solid #02897A;
+  background-color: #02897a;
+  border: 1px solid #02897a;
   border-radius: 8px;
   padding: 15px 60px;
 }
 
-.table-card .premium{
+.table-card .premium {
   text-align: center;
 }
-
-
