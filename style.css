@@ -55,6 +55,11 @@ body {
   flex: 100% 0 0;
 }
 
+.container{
+  margin: 0 auto;
+  max-width: 1080px;
+}
+
 .topbar {
   display: flex;
   align-items: center;
@@ -102,8 +107,6 @@ body {
 }
 
 header {
-  max-width: 1080px;
-  margin: 0 auto;
   margin-bottom: 150px;
 }
 
@@ -177,8 +180,6 @@ section .h1 {
 }
 
 section {
-  margin: 0 auto;
-  max-width: 1080px;
   margin-bottom: 200px;
 }
 
@@ -200,8 +201,6 @@ section .button-3 {
 }
 
 .management {
-  max-width: 1080px;
-  margin: 0 auto;
   margin-bottom: 150px;
 }
 
@@ -220,8 +219,6 @@ section .button-3 {
 }
 
 .customer-support {
-  max-width: 1080px;
-  margin: 0 auto;
   margin-bottom: 150px;
 }
 
@@ -256,8 +253,6 @@ section .button-3 {
 }
 
 .collaborative {
-  max-width: 1080px;
-  margin: 0 auto;
   margin-bottom: 200px;
 }
 
@@ -370,8 +365,6 @@ main .button-4 {
 
 .contents-strategies {
   color: #22343d;
-  margin: 0 auto;
-  max-width: 1080px;
 }
 
 .contents-strategies h1 {
