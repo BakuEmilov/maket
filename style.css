@@ -409,7 +409,7 @@ main .button-4 {
   font-size: 21px;
   font-weight: 700;
   color: #02897a;
-} 
+}
 
 .card {
   border: 1px solid gray;
@@ -417,7 +417,7 @@ main .button-4 {
   margin-right: 15px;
 }
 
-.card .card-images { 
+.card .card-images {
   width: 100%;
 }
 
@@ -425,7 +425,7 @@ main .button-4 {
   padding: 10px 15px;
 }
 
-.carosolt{
+.carosolt {
   margin-bottom: 200px;
   margin-top: 50px;
   display: flex;
