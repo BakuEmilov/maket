@@ -454,6 +454,16 @@ main .button-4 {
   color: white;
 }
 
+.standart button{
+  padding: 11px 19px;
+  border: 1px solid #02897a;
+  color: #02897a;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 16px;
+  margin: 20px;
+}
+
 .table-card .premium {
   text-align: center;
   border: 1px solid white;
