@@ -478,6 +478,10 @@ main .button-4 {
   margin: 20px;
 }
 
+.reviews{
+  margin-bottom: 200px;  
+}
+
 .table-card .premium {
   text-align: center;
   border: 1px solid white;
@@ -525,3 +529,17 @@ main .button-4 {
   border-radius: 8px;
   padding: 30px 30px;
 }
+
+.company{
+  max-width: 968px;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  background-color: #02897a;
+  border-radius: 32px;
+  border: 1px solid #02897a;
+  color: white;
+
+}
+
