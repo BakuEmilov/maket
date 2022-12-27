@@ -602,3 +602,7 @@ footer{
   display: flex;
   justify-content: space-around;
 }
+.footer-p{
+  margin-top: 20px;
+  text-align: center;
+}
