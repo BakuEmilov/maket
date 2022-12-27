@@ -107,6 +107,7 @@ body {
 }
 
 header {
+  display: flex;
   margin-bottom: 150px;
 }
 
@@ -496,10 +497,6 @@ main .button-4 {
   margin: 20px;
 }
 
-.reviews{
-  max-width: 1080PX;
-}
-
 .reviews h1, .peshka {
  text-align: center;
  max-width: 600px;
@@ -512,9 +509,9 @@ main .button-4 {
   font-size: 16px;
 }
 
-.row{
+.reviews .row{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .reviews .col-4{
