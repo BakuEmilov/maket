@@ -478,8 +478,8 @@ main .button-4 {
   margin: 20px;
 }
 
-.reviews{
-  margin-bottom: 200px;  
+.reviews {
+  margin-bottom: 200px;
 }
 
 .table-card .premium {
@@ -501,36 +501,37 @@ main .button-4 {
   margin: 20px;
 }
 
-.reviews h1, .peshka {
- text-align: center;
- max-width: 600px;
- margin: 0 auto;  
- margin-bottom: 30px;
+.reviews h1,
+.peshka {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+  margin-bottom: 30px;
 }
 
-.peshka{
+.peshka {
   font-weight: 500;
   font-size: 16px;
 }
 
-.reviews .row{
+.reviews .row {
   display: flex;
   justify-content: space-around;
 }
 
-.reviews .col-4{
+.reviews .col-4 {
   margin-top: 50px;
   max-width: 310px;
 }
 
-.reviews .col-4{
+.reviews .col-4 {
   border: 1px solid white;
   box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.25);
   border-radius: 8px;
   padding: 30px 30px;
 }
 
-.company{
+.company {
   max-width: 968px;
   margin-bottom: 40px;
   display: flex;
@@ -551,7 +552,7 @@ main .button-4 {
   max-width: 500px;
 }
 
-.company-content button{
+.company-content button {
   border: 1px solid #02897a;
   font-weight: 600;
   font-size: 20px;
@@ -561,26 +562,26 @@ main .button-4 {
   color: #02897a;
 }
 
-footer .row{
+footer .row {
   margin-top: 150px;
   display: flex;
   justify-content: space-around;
 }
 
-footer{
+footer {
   margin: 0 auto;
   max-width: 1080px;
 }
 
-.finger div{
-  margin: 20px 0px ;
+.finger div {
+  margin: 20px 0px;
   box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.25);
-  border: 1px solid #BCD0E5;
+  border: 1px solid #bcd0e5;
   background-color: #ffffff;
   padding: 20px 15px;
 }
 
-.finger button{
+.finger button {
   border: 1px solid #ffffff;
   font-weight: 700;
   font-size: 16px;
@@ -590,30 +591,28 @@ footer{
   color: #ffffff;
 }
 
-.footer-product{
+.footer-product {
   max-width: 190px;
 }
 
-
-.product-logo{
+.product-logo {
   display: flex;
-
   align-items: center;
 }
 
-.product-logo img{
+.product-logo img {
   float: left;
   margin: 15px;
 }
 
-.social{
+.social {
   max-width: 150px;
   margin: 0 auto;
   margin-top: 30px;
   display: flex;
   justify-content: space-around;
 }
-.footer-p{
+.footer-p {
   margin-top: 20px;
   text-align: center;
 }
