@@ -542,6 +542,15 @@ main .button-4 {
   color: white;
 }
 
+.company-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  max-width: 500px;
+}
+
 .company-content button{
   border: 1px solid #02897a;
   font-weight: 600;
