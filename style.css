@@ -25,19 +25,19 @@ body {
   flex: 16.6% 0 0;
 }
 .col-3 {
-  flex: 25% 0 0;
+  flex: 25% 0 1;
 }
 .col-4 {
-  flex: 33.3% 0 0;
+  flex: 33.3% 1 1;
 }
 .col-5 {
-  flex: 41.6% 0 0;
+  flex: 41.6% 1 1;
 }
 .col-6 {
   flex: 50% 0 0;
 }
 .col-7 {
-  flex: 58.3% 0 0;
+  flex: 58.3% 1 1;
 }
 .col-8 {
   flex: 66.6% 0 0;
@@ -53,11 +53,6 @@ body {
 }
 .col-12 {
   flex: 100% 0 0;
-}
-
-.container {
-  margin: 0 auto;
-  max-width: 1080px;
 }
 
 .topbar {
@@ -107,6 +102,8 @@ body {
 }
 
 header {
+  max-width: 1080px;
+  margin: 0 auto;
   display: flex;
   margin-bottom: 150px;
 }
@@ -162,6 +159,8 @@ section .h1 {
 }
 
 .product {
+  margin: 0 auto;
+  max-width: 1080px;
   display: flex;
   justify-content: space-between;
 }
@@ -180,8 +179,12 @@ section .h1 {
   font-weight: 400;
 }
 
+.shadow-img-1{
+  background-image: url(./img/Bg\ \(2\).png);
+  background-repeat: no-repeat;
+}
+
 section {
- 
   margin-bottom: 200px;
 }
 
@@ -203,6 +206,8 @@ section .button-3 {
 }
 
 .management {
+  margin: 0 auto;
+  max-width: 1080px;
   margin-bottom: 150px;
 }
 
@@ -221,6 +226,8 @@ section .button-3 {
 }
 
 .customer-support {
+  margin: 0 auto;
+  max-width: 1080px;
   margin-bottom: 150px;
 }
 
@@ -255,6 +262,8 @@ section .button-3 {
 }
 
 .collaborative {
+  margin: 0 auto;
+  max-width: 1080px;
   margin-bottom: 200px;
 }
 
@@ -271,6 +280,11 @@ section .button-3 {
   color: #2f281e;
   max-width: 970px;
   margin: 0 auto;
+}
+
+.shadow-img-2{
+  background-image: url(./img/Bg.png); 
+  background-repeat: no-repeat;
 }
 
 .quick p {
@@ -366,6 +380,8 @@ main .button-4 {
 }
 
 .contents-strategies {
+  margin: 0 auto;
+  max-width: 1080px;
   color: #22343d;
 }
 
@@ -428,6 +444,11 @@ main .button-4 {
   justify-content: center;
 }
 
+.table-card{
+  margin: 0 auto;
+  max-width: 1080px;
+}
+
 .table-card h1,
 .p {
   display: flex;
@@ -480,6 +501,8 @@ main .button-4 {
 }
 
 .reviews {
+  margin: 0 auto;
+  max-width: 1080px;
   margin-bottom: 200px;
 }
 
@@ -574,12 +597,9 @@ footer {
   max-width: 1080px;
 }
 
-.finger div {
-  margin: 20px 0px;
-  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.25);
-  border: 1px solid #bcd0e5;
-  background-color: #ffffff;
-  padding: 20px 15px;
+.finger input {
+  padding: 10px 30px;
+  margin-bottom: 20px;
 }
 
 .finger button {
