@@ -55,6 +55,21 @@ body {
   flex: 100% 0 0;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #22343D;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0px 15px;
+}
+
 .topbar {
   display: flex;
   align-items: center;
@@ -593,13 +608,23 @@ footer .row {
 }
 
 footer {
-  margin: 0 auto;
-  max-width: 1080px;
+  margin: 0 auto;  
+}
+
+.finger h5 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #22343D;
+  margin-bottom: 15px;
 }
 
 .finger input {
-  padding: 10px 30px;
+  background: #FFFFFF;
+  border: 1px solid #BCD0E5;
+  border-radius: 4px;
+  padding: 13px 45px;
   margin-bottom: 20px;
+  box-shadow: 0 2px 1px gainsboro;
 }
 
 .finger button {
@@ -627,13 +652,34 @@ footer {
 }
 
 .social {
-  max-width: 150px;
-  margin: 0 auto;
-  margin-top: 30px;
+  width: 35px;
+  height: 35px;
+  margin: 0 7rem;
+  margin-top: 10px;
   display: flex;
   justify-content: space-around;
 }
+
+.instagram {
+  margin-right: 2rem;
+}
+
+.col-3 h5 {
+  color: #22343D;
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.col-3 .resource p {
+  font-weight: 400;
+}
+
 .footer-p {
   margin-top: 20px;
   text-align: center;
+}
+
+footer h2 {
+  color: #173A56;
 }
